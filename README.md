@@ -1,6 +1,6 @@
 # PS-User-Creation-Tool
 
-![Alt Text](https://media.giphy.com/media/3o6fIV9ml3yMx1CWOY/giphy.gif)
+![Alt Text](https://thumbs.gfycat.com/LastQualifiedChital-size_restricted.gif)
 
 Tool with WPF Front End for creating active directory users with custom options. 
 
