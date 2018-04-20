@@ -8,6 +8,7 @@ Author - Michael Sanderson
 4. Add domain sites to the function fnSelectDomain using the switch format used for previous domains - also add to the combo box at the bottom of the page
 ---Revision History---
 0.20 - Final Version 03/12/15
+0.2.1 - Github Test Edit
 
 
 #>
